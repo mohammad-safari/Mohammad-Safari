@@ -78,5 +78,5 @@
 
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-safari&langs_count=8&layout=compact&theme=highcontrast&hide_border=false" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-safari&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/></a>
 </div>
