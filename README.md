@@ -57,22 +57,25 @@
   <br />
 </div>
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+<div align="center">
+  <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a" title="Windows" alt="Windows"/>&nbsp;
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" title="Linux" alt="Linux"/>&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" title="vscode" alt="vscode"/>&nbsp;
+  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=CSharp&logoColor=white&color=2bbc8a" title="CSharp" alt="CSharp"/>&nbsp;
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a" title="java" alt="java"/>&nbsp;
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a" title="TypeScript" alt="TypeScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" title="Python" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" title="C" alt="C"/>&nbsp;
+  <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a" title="Angular" alt="Angular"/>&nbsp;
+  <img src="https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a" title="Spring" alt="Spring"/>&nbsp;
+  <img src="https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a" title=".NET" alt=".NET"/>&nbsp;
+  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" title="Bash" alt="Bash"/>&nbsp;
+  <img src="https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a" title="Powershell" alt="Powershell"/>&nbsp;
+</div>
 
 ## My Github Stats
+
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-safari&langs_count=8&layout=compact&theme=highcontrast&hide_border=false" height="192px"/></a>
