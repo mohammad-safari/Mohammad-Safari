@@ -27,7 +27,7 @@
 </div>
 
 # Hi there 👋 <br> Here is me, Mohammad
-* Computer Engineering Student at AmirKabir University of Technology(Tehran Polytechnic)
+* Computer Engineering Student at Amirkabir University of Technology(Tehran Polytechnic)
 * Web Developer at Tosan(Banking & Payment Solutions)
 
 ## ✨ Interests
