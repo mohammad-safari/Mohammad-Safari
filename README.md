@@ -77,6 +77,7 @@
 ## My Github Stats
 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-safari&langs_count=8&layout=compact&theme=dark&hide_border=true" height="192px"/></a>
+<div align="center" style="display: flex;flex-wrap: wrap; align-items: center; align-content: center;">
+  <img alt="Mohammad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-safari&langs_count=8&layout=compact&theme=dark&hide_border=true" width="30%" height="192px"/>
+  <img alt="Mohammad's Activity Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Safari&layout=compact&theme=dark&hide_border=true" width="60%" height="200px"/>
 </div>
