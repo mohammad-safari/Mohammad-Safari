@@ -36,7 +36,8 @@
 * 📈 Statistics
 * 🤖 Artificial Intelligence
 * 📚 Machine Learning
-* 🐳 Network & Cloud Orchestration 
+* 🐳 Network & Cloud Orchestration
+* 🕹 Game Development
 
 ## 🔧 Technologies & Tools
 
