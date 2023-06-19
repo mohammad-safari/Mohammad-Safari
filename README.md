@@ -24,7 +24,9 @@
     <img src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
   <br />
-    <img src="https://komarev.com/ghpvc/?username=mohammad-safari" alt=""/>
+    <!--<img src="https://komarev.com/ghpvc/?username=mohammad-safari&style=flat-square&color=164e63" alt=""/>-->
+    <img src="https://visitcount.itsvg.in/api?id=hootanht&icon=5&color=0&pretty=true" alt=""/>
+
 </div>
 
 # Hi there 👋 <br> Here is me, Mohammad
@@ -83,6 +85,6 @@
 
 
 <div align="center" style="display: flex;flex-wrap: wrap; align-items: center; align-content: center;">
-<!--   <img alt="Mohammad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-safari&langs_count=8&layout=compact&theme=dark&hide_border=true" width="30%" height="200px"/>    -->
+<!--<img alt="Mohammad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-safari&langs_count=8&layout=compact&theme=dark&hide_border=true" width="30%" height="200px"/>-->
   <img alt="Mohammad's Activity Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammad-Safari&layout=compact&theme=dark&hide_border=true" width="60%" height="200px"/>
 </div>
