@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" title=".NET" alt=".NET"/>&nbsp;
   <br>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" title="Bash" alt="Bash"/>&nbsp;
-   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white" title="Bash" alt="Bash"/>&nbsp;
+   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" title="Bash" alt="Bash"/>&nbsp;
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" title="Powershell" alt="Powershell"/>&nbsp;
 </div>
 
