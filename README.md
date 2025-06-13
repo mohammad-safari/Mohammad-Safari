@@ -45,6 +45,7 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <br />
@@ -55,6 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   
   <br />
@@ -63,13 +65,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux"/>&nbsp;
-  <img src="https://img.shields.io/badge/Windows-2aa2de.svg?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows"/>&nbsp;
+<!--   <img src="https://img.shields.io/badge/Windows-2aa2de.svg?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows"/>&nbsp; -->
+  <img src="https://img.shields.io/badge/kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" title="K8S" alt="K8S"/>&nbsp;
   <br>
   <img src="https://img.shields.io/badge/C%23-2e1056.svg?style=for-the-badge&logo=CSharp&logoColor=white" title="CSharp" alt="CSharp"/>&nbsp;
   <img src="https://img.shields.io/badge/Java-%23c80000.svg?style=for-the-badge&logo=openjdk&logoColor=white" title="java" alt="java"/>&nbsp;
   <img src="https://img.shields.io/badge/Typescript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
+<!--   <img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp; -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" title="Python" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"/>&nbsp;
   <br>
   <img src="https://img.shields.io/badge/Angular-%23c80000.svg?style=for-the-badge&logo=Angular&logoColor=white" title="Angular" alt="Angular"/>&nbsp;
