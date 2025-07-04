@@ -24,8 +24,12 @@
     <img src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
   <br />
-    <!--<img src="https://komarev.com/ghpvc/?username=mohammad-safari&style=flat-square&color=164e63" alt=""/>-->
-    <img src="https://visitcount.itsvg.in/api?id=hootanht&icon=5&color=0&pretty=true" alt=""/>
+  <a href="https://mohammad-safari.github.io/web-cv">
+    <img src="https://img.shields.io/badge/web%20cv-lightblue?style=for-the-badge&logo=read.cv&logoColor=darkblue" alt="CV Badge"/>
+  </a>
+
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=mohammad-safari&style=flat-square&color=164e63" alt=""/>
 
 </div>
 
